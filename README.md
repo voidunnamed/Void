@@ -43,7 +43,7 @@ Tu veux discuter d'un projet, d'une idée, ou juste débattre de tabs vs spaces 
 
 [![GitHub](https://img.shields.io/badge/GitHub-ItStelax-181717?style=flat-square&logo=github)](https://github.com/ItStelax)
 
-![Discord](https://img.shields.io/discord/1183501833721876641?style=social&link=https%3A%2F%2Fdiscord.gg%2FVnpRqV5zW)
+![Discord](https://img.shields.io/discord/1183501833721876641?style=social&link=https%3A%2F%2Fdiscord.com%2Finvite%2FVnpRqV5zW)
 
 ---
 
