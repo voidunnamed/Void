@@ -24,15 +24,15 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItStelax&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Void&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItStelax&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Void&theme=tokyonight" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItStelax&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 Tu veux discuter d'un projet, d'une idée, ou juste débattre de tabs vs spaces ?
 
-[![GitHub](https://img.shields.io/badge/GitHub-ItStelax-181717?style=flat-square&logo=github)](https://github.com/ItStelax)
+[![GitHub](https://img.shields.io/badge/GitHub-Void-181717?style=flat-square&logo=github)](https://github.com/Void)
 
 ![Discord](https://img.shields.io/discord/1183501833721876641?style=social&link=https%3A%2F%2Fdiscord.gg%2FgVnpRqV5zW)
 
