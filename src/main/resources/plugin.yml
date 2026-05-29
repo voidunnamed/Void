@@ -1,0 +1,5 @@
+name: CozyHouseQuests
+version: '1.0-SNAPSHOT'
+main: fr.cozyhouse.cozyHouseQuests.CozyHouseQuests
+api-version: '1.21'
+depend: [CozyHouseRPG, CozyHouse]
