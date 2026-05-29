@@ -1,4 +1,4 @@
 package fr.cozyhouse.cozyHouseQuests.manager;
 
-public class ConfigManager {
+public class ConfigManager {di
 }
