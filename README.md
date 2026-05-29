@@ -1,6 +1,6 @@
 # Hi, I'm Void 👋
 
-Étudiant en développement, spécialisé JVM — autrement dit, je parle couramment Java.
+A development student, JVM-specialized — in other words, I speak Java fluently.
 
 ---
 
@@ -13,11 +13,11 @@
 
 ---
 
-## 📌 En ce moment
+## 📌 Currently
 
-- 🎓 En formation, les neurones en surchauffe permanente
-- 🔨 En train de construire des projets pour apprendre, casser des choses, puis les reconstruire
-- 📖 À la recherche de bonnes pratiques — et parfois je les applique même
+- 🎓 In training, neurons permanently overheating  
+- 🔨 Building projects to learn, break things, then rebuild them  
+- 📖 Searching for best practices — and sometimes even applying them  
 
 ---
 
@@ -32,14 +32,14 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-Tu veux discuter d'un projet, d'une idée, ou juste débattre de tabs vs spaces ?
+Want to talk about a project, an idea, or just debate tabs vs spaces?
 
 [![GitHub](https://img.shields.io/badge/GitHub-Void-181717?style=flat-square&logo=github)](https://github.com/Void)
 
@@ -48,5 +48,5 @@ Tu veux discuter d'un projet, d'une idée, ou juste débattre de tabs vs spaces 
 ---
 
 <p align="center">
-  <sub>Ce README a été rédigé sans caféine. Résultat surprenant.</sub>
+  <sub>This README was written without caffeine. Surprisingly decent outcome.</sub>
 </p>
