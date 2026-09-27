@@ -1,48 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:090611,35:1D0F33,70:4C1D95,100:A855F7&text=VOID&fontColor=F5F3FF&fontSize=68&fontAlignY=36&desc=ItStelax%20%E2%80%A2%20JVM%20Mage%20%E2%80%A2%20Quest%20Architect&descAlignY=58&descSize=21&animation=twinkling" alt="Void enchanted header" />
+<img src="./assets/v4-arcane-cinematic.svg" width="100%" alt="Void cinematic arcane banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=21&duration=2600&pause=850&color=D8B4FE&center=true&vCenter=true&width=1000&lines=%E2%9C%A6+The+End+whispers.+The+JVM+answers.;%E2%9C%A6+Forging+questlines%2C+progression+and+living+worlds.;%E2%9C%A6+Every+feature+begins+as+a+side+quest.;%E2%9C%A6+Every+side+quest+eventually+becomes+an+architecture+problem." alt="Animated magical intro" />
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=22&duration=2400&pause=700&color=E9D5FF&center=true&vCenter=true&width=1040&lines=%E2%9C%A6+Welcome%2C+traveler%2C+to+the+Codex+of+ItStelax.;%E2%9C%A6+The+End+whispers.+The+JVM+answers.;%E2%9C%A6+Quests%2C+progression%2C+NPCs+and+living+worlds.;%E2%9C%A6+Every+small+idea+eventually+becomes+an+entire+system." alt="Animated magical intro" />
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="35%">
-<img height="290" src="https://mc-heads.net/body/ItStelax/right" alt="ItStelax 3D Minecraft render" />
+<td align="center" width="34%">
+<img height="315" src="https://mc-heads.net/body/ItStelax/right" alt="ItStelax Minecraft render" />
 </td>
-<td align="center" width="65%">
+<td align="center" width="66%">
 
-### ✦ ITSTELAX ✦
+# ✦ ITSTELAX ✦
 
-**JVM Mage · Builder of RPG Systems · End-Touched Architect**
+### JVM Mage · Quest Architect · End-Touched Developer
 
 <img src="https://img.shields.io/badge/CLASS-JVM%20MAGE-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AFFINITY-THE%20END-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SUBCLASS-QUEST%20ARCHITECT-A855F7?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MAIN%20WEAPON-JAVA%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/REALM-SPIGOT%20%2F%20PAPER-4CAF50?style=for-the-badge&logo=mojangstudios&logoColor=white" />
+<img src="https://img.shields.io/badge/AFFINITY-THE%20END-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REALM-MINECRAFT%20RPG-166534?style=for-the-badge&logo=mojangstudios&logoColor=white" />
 
 <br/><br/>
 
 <a href="https://github.com/voidunnamed"><img src="https://img.shields.io/badge/GitHub-voidunnamed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://discord.gg/gVnpRqV5zW"><img src="https://img.shields.io/badge/Discord-Enter%20the%20Guild-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/gVnpRqV5zW"><img src="https://img.shields.io/badge/Discord-Summon%20ItStelax-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=voidunnamed&style=for-the-badge&color=7C3AED&label=ADVENTURERS+WHO+ENTERED" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=voidunnamed&style=for-the-badge&color=7C3AED&label=ADVENTURERS+WHO+ENTERED" alt="Profile views" />
-
 </div>
 
 ---
 
-## 🏰 Adventurer Codex
+## 🏰 Character Codex
 
 ```yaml
 identity: Void
@@ -51,102 +53,218 @@ class: JVM Mage
 subclass: Quest Architect
 realm: Minecraft RPG
 affinity: The End
-main_weapon: Java 21
+primary_weapon: Java 21
 forge: Maven
 spellbook: IntelliJ IDEA
 current_raid: CozyHouse
 ultimate_goal: Build worlds worth exploring
 ```
 
-I’m a development student specialized in the **JVM ecosystem**, focused on building **Minecraft RPG systems**, **plugin architectures**, **quest engines**, progression mechanics and all the dangerous ideas that begin with:
+I’m a development student specialized in the **JVM ecosystem**, building **Minecraft RPG systems**, **plugin architectures**, quest engines, progression mechanics and everything that turns a collection of features into a living world.
 
-> *“this should be a quick feature.”*
-
-My preferred gameplay loop as a developer:
-
-**Imagine → Build → Break → Understand → Refactor → Add another system → Repeat**
+> *“This should be a quick feature.”*  
+> — the sentence immediately before creating another entire subsystem.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=80&color=0:090611,50:7C3AED,100:090611&text=%E2%9C%A6%20QUEST%20JOURNAL%20%E2%9C%A6&fontColor=EDE9FE&fontSize=22&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=86&color=0:090611,50:7C3AED,100:090611&text=%E2%9C%A6%20CLASS%20SELECTION%20%E2%9C%A6&fontColor=F5F3FF&fontSize=23&animation=twinkling" width="100%" />
 
 </div>
 
-## 🗺️ Quest Journal
+## 🧙 Class Selection
 
-### 👑 MAIN QUEST — CozyHousePlugin
+<table>
+<tr>
+<td width="33%" align="center">
 
-> **Quest Type:** Epic Main Story  
-> **Status:** 🟣 ACTIVE  
+### ☕ JVM Mage
+**Main Class**
+
+Java 21 · JVM · OOP · Generics · APIs
+
+<img src="https://img.shields.io/badge/Mastery-LEGENDARY-7C3AED?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center">
+
+### 📜 Quest Architect
+**Subclass**
+
+Questlines · NPCs · Conditions · Objectives · Rewards
+
+<img src="https://img.shields.io/badge/Mastery-ACTIVE-A855F7?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center">
+
+### 🏰 World Builder
+**Secondary Path**
+
+Progression · Waypoints · Game Flow · Systems
+
+<img src="https://img.shields.io/badge/Mastery-GROWING-4C1D95?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔮 Arcane Resource Bars
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MANA-100%20%2F%20100-7C3AED?style=for-the-badge&logo=magic&logoColor=white" />
+<img src="https://img.shields.io/badge/XP-LEVEL%20JVM-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARMOR-MODULAR%20ARCHITECTURE-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OVERENGINEERING-9333EA?style=for-the-badge" />
+
+<br/><br/>
+
+`MANA` ✦████████████████████✦ **MAX**  
+`XP  ` ✦█████████████████░░░✦ **NEXT QUEST**  
+`FOCUS` ✦██████████████████░░✦ **QUEST ENGINE**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=86&color=0:090611,50:A855F7,100:090611&text=%E2%9C%A6%20SPELLBOOK%20%E2%9C%A6&fontColor=F5F3FF&fontSize=23&animation=blinking" width="100%" />
+
+</div>
+
+## 📖 Spellbook
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,maven,git,github,idea,vscode,html&theme=dark" alt="Development spellbook" />
+
+</div>
+
+| Spell | School | Effect |
+| --- | --- | --- |
+| ☕ **JVM Invocation** | Java 21 | Turns game ideas into strongly typed systems |
+| 🧱 **World Binding** | Spigot / Paper | Connects code to the Minecraft realm |
+| 🔨 **Forge Artifact** | Maven | Builds, shades and assembles modules |
+| 📜 **Quest Weaving** | RPG Architecture | Connects triggers, conditions, objectives and rewards |
+| 🧙 **NPC Chronicle** | Dialogue Systems | Gives characters ordered storylines |
+| 🧭 **Wayfinder** | World UX | Guides players without breaking immersion |
+| 🛡 **Modular Ward** | Architecture | Protects the codebase from future feature creep |
+| ⏳ **Timeline Reversal** | Git | Restores reality after a questionable refactor |
+
+---
+
+## 🗺️ Quest Timeline
+
+```text
+[✓] AWAKENING
+    └─ Java / JVM path chosen
+       │
+[✓] FIRST FOUNDATIONS
+    └─ Minecraft plugin architecture
+       │
+[✓] EXPERIENCE REQUIRED
+    └─ Custom progression systems
+       │
+[✓] THE MODULAR FORGE
+    └─ Multi-module ecosystem
+       │
+[●] THE QUEST ARCHITECT
+    └─ Flexible quest engine
+       │
+[●] NPCs HAVE STORIES
+    └─ Ordered NPC questlines
+       │
+[●] FOLLOW THE MARKER
+    └─ Immersive waypoint system
+       │
+[ ] THE LIVING WORLD
+    └─ Quests + progression + NPCs + world flow
+       │
+[?] ENDGAME
+    └─ Something I have not overengineered yet
+```
+
+---
+
+## 👑 Boss Raid — CozyHousePlugin
+
+> **Boss Type:** Long-term Main Project  
+> **Raid Status:** 🟣 ACTIVE  
 > **Difficulty:** ★★★★★  
-> **Recommended Class:** Architect
-
-<details open>
-<summary><b>📜 Open Main Quest</b></summary>
-
-<br/>
-
-**Objective:** forge a complete Minecraft RPG ecosystem where quests, NPCs, progression and world interactions behave like one connected adventure.
-
-### 🎯 Quest objectives
-
-- [x] Establish the plugin foundation
-- [x] Build custom experience / progression systems
-- [x] Create a modular architecture
-- [ ] Forge a deeply flexible **quest engine**
-- [ ] Make quests originate naturally from **NPC dialogue**
-- [ ] Support ordered **NPC storylines**
-- [ ] Create reusable **conditions, triggers, objectives and rewards**
-- [ ] Add immersive **waypoints and world guidance**
-- [ ] Support unusual RPG tasks — even something like *sweeping an inn*
-- [ ] Connect quests, progression and world systems into one living RPG framework
+> **Loot:** A complete RPG ecosystem
 
 <div align="center">
 
 <a href="https://github.com/voidunnamed/CozyHousePlugin">
-<img width="88%" src="https://github-readme-stats.vercel.app/api/pin/?username=voidunnamed&repo=CozyHousePlugin&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=D8B4FE&icon_color=A855F7&text_color=EDE9FE" alt="CozyHousePlugin" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=voidunnamed&repo=CozyHousePlugin&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=E9D5FF&icon_color=A855F7&text_color=EDE9FE" alt="CozyHousePlugin boss card" />
 </a>
+
+</div>
+
+<details open>
+<summary><b>⚔ Open Raid Objectives</b></summary>
 
 <br/>
 
-[![ENTER MAIN QUEST](https://img.shields.io/badge/%E2%9A%94_ENTER_MAIN_QUEST-CozyHousePlugin-7C3AED?style=for-the-badge)](https://github.com/voidunnamed/CozyHousePlugin)
+- [x] Establish the plugin foundation
+- [x] Build experience / progression systems
+- [x] Create modular architecture
+- [ ] Forge a deeply flexible **quest engine**
+- [ ] Make quests originate naturally from **NPC dialogue**
+- [ ] Support ordered **NPC questlines**
+- [ ] Build reusable **conditions, triggers, objectives and rewards**
+- [ ] Add immersive **waypoints and world guidance**
+- [ ] Support unusual RPG tasks — even something like *sweeping an inn*
+- [ ] Connect quests, progression and world systems into one living framework
+
+<div align="center">
+
+[![ENTER THE RAID](https://img.shields.io/badge/%E2%9A%94_ENTER_THE_RAID-CozyHousePlugin-7C3AED?style=for-the-badge)](https://github.com/voidunnamed/CozyHousePlugin)
 
 </div>
 
 </details>
 
-### ✧ SIDE QUEST — EnchantPlusMod
+---
 
-> **Quest Type:** Arcane Experiment  
-> **Status:** 🟪 DISCOVERED
-
-<details>
-<summary><b>🔮 Inspect Side Quest</b></summary>
-
-<br/>
-
-A separate magical branch focused on custom mechanics and content experiments.
+## 🪄 Side Boss — EnchantPlusMod
 
 <div align="center">
 
 <a href="https://github.com/voidunnamed/EnchantPlusMod">
-<img width="88%" src="https://github-readme-stats.vercel.app/api/pin/?username=voidunnamed&repo=EnchantPlusMod&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=D8B4FE&icon_color=A855F7&text_color=EDE9FE" alt="EnchantPlusMod" />
+<img width="88%" src="https://github-readme-stats.vercel.app/api/pin/?username=voidunnamed&repo=EnchantPlusMod&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=E9D5FF&icon_color=A855F7&text_color=EDE9FE" alt="EnchantPlusMod side boss" />
 </a>
 
 </div>
 
-</details>
+---
 
-### 🔒 FOG OF WAR
+<div align="center">
 
-> Unknown quest markers remain beyond the map.  
-> They usually spawn shortly after the phrase: **“I have a small idea.”**
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=86&color=0:090611,50:6D28D9,100:090611&text=%E2%9C%A6%20ARCANE%20METRICS%20%E2%9C%A6&fontColor=F5F3FF&fontSize=23&animation=twinkling" width="100%" />
+
+</div>
+
+## ✨ Arcane Metrics
+
+<div align="center">
+
+<img width="100%" src="./metrics.rpg.svg" alt="Animated RPG developer metrics" />
+
+<br/>
+
+<img width="100%" src="https://gh-readme-profile.vercel.app/api?username=voidunnamed&theme=duskfox&hide_border=true&show=reviews,issues_closed,prs_merged&title=ItStelax%20-%20Arcane%20Record" alt="Animated GitHub profile card" />
+
+</div>
 
 ---
 
-## ✨ Arcane Dashboard
+## 📊 Guild Records
 
 <div align="center">
 
@@ -154,80 +272,28 @@ A separate magical branch focused on custom mechanics and content experiments.
 
 <br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voidunnamed&theme=tokyonight" alt="Repositories per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voidunnamed&theme=tokyonight" alt="Most committed language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voidunnamed&theme=tokyonight" alt="GitHub summary stats" />
-
-</div>
-
----
-
-## 🎒 Inventory of Relics
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,maven,git,github,idea,vscode,html&theme=dark" alt="Development inventory" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voidunnamed&theme=tokyonight" alt="Repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voidunnamed&theme=tokyonight" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voidunnamed&theme=tokyonight" alt="Stats" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Minecraft-Spigot%20%2F%20Paper-4CAF50?style=for-the-badge&logo=mojangstudios&logoColor=white" />
-<img src="https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/Architecture-Modular-6D28D9?style=for-the-badge" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=voidunnamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=E9D5FF&icon_color=A855F7&text_color=EDE9FE&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidunnamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=E9D5FF&text_color=EDE9FE" alt="Languages" />
+
+<br/>
+
+<img width="64%" src="https://streak-stats.demolab.com?user=voidunnamed&theme=tokyonight&hide_border=true&background=10091B&ring=A855F7&fire=E9D5FF&currStreakLabel=EDE9FE&sideNums=EDE9FE&currStreakNum=EDE9FE&sideLabels=C4B5FD&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidunnamed&bg_color=10091B&color=EDE9FE&line=A855F7&point=E9D5FF&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
-| Slot | Relic | Enchantment |
-| ---: | --- | --- |
-| ⚔ | **Java 21** | `Sharpness JVM` · Main weapon |
-| 🔨 | **Maven** | `Forge of Packaging` · Build system |
-| 🧱 | **Spigot / Paper** | `World Binding` · Minecraft systems |
-| 📖 | **IntelliJ IDEA** | `Arcane Insight` · Primary spellbook |
-| 🧭 | **Git / GitHub** | `Timeline Control` · Version history |
-| 🏰 | **Architecture** | `Unbreaking III` · Modular systems |
-
 ---
 
-## 🌌 Skill Tree
-
-```text
-                            ✦ THE JVM PATH ✦
-
-                                 [ JAVA ]
-                                    │
-                    ┌───────────────┼───────────────┐
-                    │               │               │
-               [ JVM CORE ]   [ ARCHITECTURE ]  [ MINECRAFT ]
-                    │               │               │
-              Collections       Modularity       Events
-              Generics          Services         NPC Systems
-              OOP               APIs             Paper / Spigot
-                    │               │               │
-                    └───────────────┼───────────────┘
-                                    │
-                            [ RPG SYSTEMS ]
-                                    │
-                    ┌───────────────┼───────────────┐
-                    │               │               │
-                 Quests        Progression       World Flow
-                    │               │               │
-                    └───────────────┼───────────────┘
-                                    │
-                           [ ??? LOCKED ??? ]
-```
-
-```text
-Java / JVM             ████████████████████  MAIN PATH
-Plugin Architecture    ██████████████████░░  MASTERING
-RPG Systems            █████████████████░░░  MASTERING
-Quest Architecture     ██████████████████░░  ACTIVE
-Clean Code             ████████████████░░░░  CONSTANT REFRACTOR
-Scope Control          ██░░░░░░░░░░░░░░░░░░  CURSED
-```
-
----
-
-## 🏆 Advancements & Relics
+## 🏆 Achievement Hall
 
 <div align="center">
 
@@ -239,8 +305,7 @@ Scope Control          ██░░░░░░░░░░░░░░░░░
 | --- | --- | :---: |
 | ☕ **The JVM Awakens** | Choose Java as the main class | ✅ |
 | 🧱 **First Foundations** | Build real Minecraft plugin systems | ✅ |
-| 🗃 **Modular Mindset** | Structure reusable plugin modules | ✅ |
-| ✨ **Experience Required** | Build custom progression systems | ✅ |
+| ✨ **Experience Required** | Build custom progression | ✅ |
 | 📜 **A Quest Appears!** | Begin a true RPG quest architecture | ✅ |
 | 🧙 **NPCs Have Stories Too** | Ordered NPC questlines | 🟣 |
 | 🗺 **Follow the Marker** | Immersive waypoint system | 🟣 |
@@ -249,42 +314,15 @@ Scope Control          ██░░░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=pulse&height=80&color=0:090611,50:A855F7,100:090611&text=%E2%9C%A6%20ARCANE%20RECORDS%20%E2%9C%A6&fontColor=F5F3FF&fontSize=22&animation=twinkling" width="100%" />
-
-</div>
-
-## 📊 Guild Records
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=voidunnamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=D8B4FE&icon_color=A855F7&text_color=EDE9FE&rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidunnamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=10091B&title_color=D8B4FE&text_color=EDE9FE" alt="Languages" />
-
-<br/>
-
-<img width="62%" src="https://streak-stats.demolab.com?user=voidunnamed&theme=tokyonight&hide_border=true&background=10091B&ring=A855F7&fire=D8B4FE&currStreakLabel=EDE9FE&sideNums=EDE9FE&currStreakNum=EDE9FE&sideLabels=C4B5FD&dates=8B949E" alt="GitHub streak" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidunnamed&bg_color=10091B&color=EDE9FE&line=A855F7&point=D8B4FE&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## 🐍 End-Magic Contribution Familiar
+## 🐍 End-Magic Familiar
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidunnamed/Void/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidunnamed/Void/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated End magic contribution snake" src="https://raw.githubusercontent.com/voidunnamed/Void/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="End magic contribution snake" src="https://raw.githubusercontent.com/voidunnamed/Void/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<sub>Generated automatically by GitHub Actions and enchanted in End-purple.</sub>
 
 </div>
 
@@ -296,7 +334,19 @@ Scope Control          ██░░░░░░░░░░░░░░░░░
 
 <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution realm" />
 
-<sub>A generated 3D map of the realm — updated automatically.</sub>
+</div>
+
+---
+
+## 🔮 Oracle of the Repository
+
+<div align="center">
+
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer prophecy" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=1100&color=C4B5FD&center=true&vCenter=true&width=850&lines=%2Fcast+quest_engine;%2Fcast+npc_dialogue;%2Fcast+waypoint;%2Fcast+one_last_refactor;%2Ferror+last_refactor_not_found" alt="Animated spell commands" />
 
 </div>
 
@@ -305,14 +355,14 @@ Scope Control          ██░░░░░░░░░░░░░░░░░
 ## ❤️ Adventurer HUD
 
 ```text
-ITSTELAX                                                CLASS: JVM MAGE
+ITSTELAX                                       CLASS: JVM MAGE
 
-❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤        HEALTH        STABLE
-🛡 🛡 🛡 🛡 🛡 🛡 🛡 ◇ ◇ ◇        ARMOR         REINFORCING
-✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦        MANA          OVERENGINEERING
-🍗 🍗 🍗 🍗 🍗 🍗 ◇ ◇ ◇ ◇        HUNGER        CODE FIRST, FOOD LATER
+❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤      HEALTH     STABLE
+🛡 🛡 🛡 🛡 🛡 🛡 🛡 ◇ ◇ ◇      ARMOR      MODULAR
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦      MANA       MAXIMUM
+🍗 🍗 🍗 🍗 🍗 🍗 ◇ ◇ ◇ ◇      HUNGER     CODE FIRST
 
-XP  [██████████████████████████████████████████]  NEXT QUEST...
+XP [██████████████████████████████████████████] NEXT QUEST...
 ```
 
 ---
@@ -321,7 +371,7 @@ XP  [█████████████████████████
 
 <div align="center">
 
-**Found a cursed Java bug, a strange Minecraft mechanic, or an RPG idea that deserves to become unnecessarily ambitious?**
+**Cursed Java bug? Strange Minecraft mechanic? RPG idea that deserves to become unnecessarily ambitious?**
 
 <br/><br/>
 
@@ -341,6 +391,6 @@ XP  [█████████████████████████
 
 ### ✦ The quest continues. ✦
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:090611,35:1D0F33,70:4C1D95,100:A855F7&animation=twinkling" alt="Enchanted footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&color=0:090611,35:1D0F33,70:4C1D95,100:A855F7&animation=twinkling" alt="Arcane footer" />
 
 </div>
