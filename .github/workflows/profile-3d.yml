@@ -7,11 +7,15 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "profile-3d-contrib/**"
+    paths:
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-3d-realm
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -35,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No 3D contribution changes to commit."
           else
-            git commit -m "chore: update 3D contribution realm"
+            git commit -m "chore: update 3D contribution realm [skip ci]"
             git push
           fi
