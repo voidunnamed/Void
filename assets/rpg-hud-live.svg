@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08040f"/><stop offset=".55" stop-color="#180b2b"/><stop offset="1" stop-color="#35105c"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop stop-color="#6d28d9"/><stop offset=".55" stop-color="#a855f7"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="4" y="4" width="992" height="422" rx="26" fill="url(#bg)" stroke="#7c3aed" stroke-width="3"/>
+<rect x="12" y="12" width="976" height="406" rx="22" fill="none" stroke="#c084fc" opacity=".28" stroke-dasharray="8 10">
+  <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="8s" repeatCount="indefinite"/>
+</rect>
+<g fill="#d8b4fe" filter="url(#g)">
+  <circle cx="80" cy="75" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="910" cy="95" r="2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="340" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+</g>
+<text x="55" y="62" fill="#f5f3ff" font-size="30" font-family="Georgia,serif" font-weight="700">ITSTELAX · LIVE CHARACTER HUD</text>
+<text x="55" y="94" fill="#c4b5fd" font-size="16" font-family="monospace">JVM MAGE · QUEST ARCHITECT · LEVEL 15</text>
+<g font-family="monospace">
+  <text x="55" y="144" fill="#ede9fe" font-size="14">XP / QUEST PROGRESS</text>
+  <rect x="55" y="158" width="840" height="22" rx="11" fill="#211333"/>
+  <rect x="55" y="158" width="336.0" height="22" rx="11" fill="url(#bar)">
+    <animate attributeName="opacity" values=".75;1;.75" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="915" y="175" text-anchor="end" fill="#e9d5ff" font-size="13">40%</text>
+  <text x="55" y="218" fill="#ede9fe" font-size="14">MANA / SYSTEM CAPACITY</text>
+  <rect x="55" y="232" width="840" height="22" rx="11" fill="#211333"/>
+  <rect x="55" y="232" width="588.0" height="22" rx="11" fill="url(#bar)"/>
+  <text x="915" y="249" text-anchor="end" fill="#e9d5ff" font-size="13">70%</text>
+  <text x="55" y="292" fill="#ede9fe" font-size="14">JAVA ARCANE RESONANCE</text>
+  <rect x="55" y="306" width="840" height="22" rx="11" fill="#211333"/>
+  <rect x="55" y="306" width="420.0" height="22" rx="11" fill="url(#bar)"/>
+  <text x="915" y="323" text-anchor="end" fill="#e9d5ff" font-size="13">50%</text>
+</g>
+<g font-family="monospace" font-size="15" fill="#ddd6fe">
+  <text x="55" y="380">REPOSITORIES  05</text>
+  <text x="300" y="380">STARS  01</text>
+  <text x="490" y="380">FOLLOWERS  00</text>
+  <text x="740" y="380">COMMITS  0040</text>
+</g>
+<text x="500" y="409" text-anchor="middle" fill="#8b5cf6" font-size="12" font-family="monospace">AUTO-FORGED DAILY FROM LIVE GITHUB DATA</text>
+</svg>
